@@ -1,0 +1,60 @@
+[33mcommit 18ce3c89537e2c4f4bb19132b7ecaf76a7ee6dc8[m
+Merge: 57c114c 8464773
+Author: LiWenbin <757143559@qq.com>
+Date:   Tue Apr 13 16:55:21 2021 +0800
+
+    conflict fixed
+
+[33mcommit 57c114c896cad1dc33f9ca59b9679200fcb9c650[m
+Author: LiWenbin <757143559@qq.com>
+Date:   Tue Apr 13 16:41:13 2021 +0800
+
+    在master分支上新增内容9999
+
+[33mcommit 8464773b2c800d9b3414b22dbea9689279a62bf3[m
+Author: LiWenbin <757143559@qq.com>
+Date:   Tue Apr 13 16:39:01 2021 +0800
+
+    添加内容888888
+
+[33mcommit e9c10e1b7274c25243e02324f0a90818c56cfde2[m
+Author: LiWenbin <757143559@qq.com>
+Date:   Tue Apr 13 16:27:06 2021 +0800
+
+    dev分支上增加内容7777
+
+[33mcommit 37d13c1d4b0c937fd02b0aa05b30e24265529955[m
+Author: LiWenbin <757143559@qq.com>
+Date:   Tue Apr 13 15:41:04 2021 +0800
+
+    提交b.txt和test.txt文件和a.txt文件
+
+[33mcommit 054ee3d3935872b7a2a2010661deb90f210e7811[m
+Author: LiWenbin <757143559@qq.com>
+Date:   Tue Apr 13 15:34:40 2021 +0800
+
+    添加b.txt文件
+
+[33mcommit 47b7d186c1ce29950309c4461671a2022aa55094[m
+Author: LiWenbin <757143559@qq.com>
+Date:   Tue Apr 13 15:24:31 2021 +0800
+
+    一次性提交所有文件，包括新建文件test.txt
+
+[33mcommit 26d83bb846d6ced0ecf12ed4cac72559ee5c7319[m
+Author: LiWenbin <757143559@qq.com>
+Date:   Tue Apr 13 15:13:54 2021 +0800
+
+    添加readme.txt文件内容为3333333
+
+[33mcommit 830632acfd110b5d9039bc5561ab26ed273bb0b5[m
+Author: LiWenbin <757143559@qq.com>
+Date:   Tue Apr 13 15:12:13 2021 +0800
+
+    文件增加了2222222内容
+
+[33mcommit 79ec57da3cffcd55f72ea3a86fcd14f1dd51f856[m
+Author: LiWenbin <757143559@qq.com>
+Date:   Tue Apr 13 15:08:02 2021 +0800
+
+    readme.txt提交
